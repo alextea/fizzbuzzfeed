@@ -9,7 +9,11 @@
       ],
       "js": ["jquery-2.1.4.min.js", "content.js"]
     }
-  ]
+  ],
+  "icons": {
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  }
 }
 
 

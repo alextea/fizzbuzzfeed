@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "FizzBuzzFeed",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": [
+        "http://www.buzzfeed.com/*"
+      ],
+      "js": ["jquery-2.1.4.min.js", "content.js"]
+    }
+  ]
+}
+
+
+
